@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0rem;
+    height: 100vh;
+    background-color: rgb(170, 83, 211);
+    color: rgb(192, 14, 153);
+  }
+h1{
+    margin: 4rem;
+}
+input{
+    width: 20%;
+    height: 2rem;
+    padding: 0rem;
+    font-size: large;
+    text-align: center;
+    border-radius: 0.5rem;
+    background-color: rgb(175, 163, 190);
+    color: rgb(72, 49, 77);
+    font-weight: bolder;
+}
+button{
+    display: block;
+    margin: 3rem auto;
+    width: 12%;
+    height: 2rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: rgb(156, 21, 21);
+
+}
+
+button:hover{
+    color: darkseagreen;
+    background-color: rgb(139, 61, 116);
+}
+div {
+    border: 1px solid white;
+    text-align: center;
+    height: 100%;
+    /* font-size: rem; */
+  }
+  
+p {
+    padding: 2rem;
+    text-align: center;
+    font-size: x-large;
+    font-weight:bolder;
+    color: rgb(247, 18, 56);
+
+  }
