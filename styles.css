@@ -9,7 +9,7 @@ h1{
     margin: 4rem;
 }
 input{
-    width: 20%;
+    width: 50%;
     height: 2rem;
     padding: 0rem;
     font-size: large;
@@ -22,7 +22,7 @@ input{
 button{
     display: block;
     margin: 3rem auto;
-    width: 12%;
+    width: 30%;
     height: 2rem;
     border-radius: 10px;
     font-size: 1rem;
